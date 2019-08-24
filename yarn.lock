@@ -523,8 +523,8 @@ ajv@^6.10.0, ajv@^6.10.2, ajv@^6.5.5:
     uri-js "^4.2.2"
 
 "analyze-markdown-for-blog-article@https://github.com/ryou/analyze-markdown-for-blog-article.git":
-  version "1.0.2"
-  resolved "https://github.com/ryou/analyze-markdown-for-blog-article.git#a528fe0558732f8afabc57dfee48fba4ddfbea86"
+  version "1.0.3"
+  resolved "https://github.com/ryou/analyze-markdown-for-blog-article.git#ae11ce6f18f669cf8dec7bca785a6065b0872cc5"
   dependencies:
     lodash "^4.17.15"
     markdown-it "^9.1.0"
